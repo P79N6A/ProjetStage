@@ -1,0 +1,2 @@
+deb package: python3-mysql.connector
+deb package: python3-pip
